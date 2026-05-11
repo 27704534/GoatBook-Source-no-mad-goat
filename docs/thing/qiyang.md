@@ -1,6 +1,11 @@
 # 岐阳市
-<img src="your-image.jpg" alt="https://img.wsmdn.dpdns.org/img/retouch_2026051109354960.png" 
-     style="display: block; margin: 0 auto; width: 100px;">
+
+<div style="text-align: center;">
+  <img src="https://img.wsmdn.dpdns.org/img/retouch_2026051109354960.png" 
+       alt="省徽" 
+       style="width: 50%;">
+</div>
+
 ## 基本信息
 * 中文名：岐阳市  
 * 外文名：Qiyang Province  
