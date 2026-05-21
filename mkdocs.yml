@@ -1,6 +1,6 @@
 site_name: 茕羊维基
 repo_url: https://github.com/AloneGoatProject/GoatBook-Source
-repo_name: nomdn/GoatBook-Source
+repo_name: AloneGoatProject/GoatBook-Source
 nav:
   - 主页: index.md
   - 会议记录: thing/meeting.md
