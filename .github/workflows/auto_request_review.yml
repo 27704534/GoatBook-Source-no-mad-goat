@@ -9,6 +9,9 @@ on:
     types: [ opened, ready_for_review, reopened, synchronize ]
     branches: [ main ]
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   auto-request-review:
     name: Auto Request Review
