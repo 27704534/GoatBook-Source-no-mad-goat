@@ -48,7 +48,7 @@
 ***事件影响***   
 这次事件导致茕羊民国短暂封禁，对国内经济造成了严重的破坏。   
 
-![](https://img.wsmdn.dpdns.org/img/衣冠南渡.jpg)
+![](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/衣冠南渡.jpg)
 
 ### 马步芳叛乱
 
@@ -66,7 +66,7 @@
 ### 第二民国的建立
 
 `2025年7月1日`，由于群里太极霸乱，[**茕山羊**](../../name/name.md#goat)将群主之位传于[**绿宝石**](../../name/name.md#emerald)。绿宝石上台后不久进行大规模改革，召开了第一次议会，确立了**二帝共治制度**，标志着**茕羊第二民国**的建立，拉开了全面政治制度建设时期的大幕。  
-![武斗文件](https://img.wsmdn.dpdns.org/img/反马步芳和平建国.jpg)  
+![武斗文件](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/反马步芳和平建国.jpg)  
 <p style="text-align: center;">早期旗帜</p>  
 
 
@@ -88,12 +88,12 @@
 *第二次无产阶级文化大革命*暂时无法考证
 <table>
   <tr>
-    <td width="50%"><img src="https://img.wsmdn.dpdns.org/img/决定.jpg" style="width:100%"></td>
-    <td width="50%"><img src="https://img.wsmdn.dpdns.org/img/武斗指示.jpg" style="width:100%"></td>
+    <td width="50%"><img src="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/决定.jpg" style="width:100%"></td>
+    <td width="50%"><img src="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/武斗指示.jpg" style="width:100%"></td>
   </tr>
 </table>
 
-![大字报1](https://img.wsmdn.dpdns.org/img/大字报1.jpg)
+![大字报1](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/大字报1.jpg)
 
 ## 绿宝石英勇就义
 
@@ -275,7 +275,7 @@
 ## 茕羊行贿事件
 
 `2025年11月16日`，据网传消息，民主党领导人[**茕茕孑立的山羊**](../../name/name.md#goat)疑似欲向[**mdn**](../../name/name.md#mdn)行贿，却遭拒绝。  
-![铁正如山](https://img.wsmdn.dpdns.org/img/山羊行贿事件.jpg){ width=70% }
+![铁正如山](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/山羊行贿事件.jpg){ width=70% }
 
 ## 晨光大披露以至社民党被取缔事件
 
@@ -307,7 +307,7 @@
 此举让我们群聊成功变回了一个聊天群😭😭😭😭😭😭😭😭😭😭😭😭。  
 
 王政复古运动是山羊对内调和迁就、时剿时抚的第一次重要体现，也是去政治化派和政治化派实力天平倾斜的开始。
-![](https://img.wsmdn.dpdns.org/img/悲痛欲绝.png)  
+![](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/悲痛欲绝.png)  
 
 ### 大远征
 
@@ -545,8 +545,8 @@
   `2026年2月末左右`，山羊再次与群友爆发激烈的冲突，某位群成员明嘲暗讽地歧视某个原神玩家(山羊)，山羊就此心态爆炸，感觉自己还是“没有资格”留在这个群里啊，最终山羊退出了群聊。不久后，咖啡猫与卿元羲改原茕羊为**猫娘俱乐部**。  
   `2026年2月25日`，山羊在长达两天的创作中，终于创作出了千古名篇——《茕马中线》  
   <!-- 视频元素 -->
-  <video id="player" playsinline controls data-poster="https://img.wsmdn.dpdns.org/img/茕马中线剪影.jpg">
-    <source src="https://img.wsmdn.dpdns.org/img/%E8%8C%95%E9%A9%AC%E4%B8%AD%E7%BA%BF.mp4" type="video/mp4" />
+  <video id="player" playsinline controls data-poster="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/茕马中线剪影.jpg">
+    <source src="https://raw.githubusercontent.com/AloneGoatProject/nomdn.github.io/main/img/茕马中线.mp4" type="video/mp4" />
   </video>
   本作以旁观者视角表达了对茕羊曲折历史的辛酸。  
   `2026年3月初`，“无悔华夏花园口游泳馆VIP会员群”(一位b站up主的粉丝群)经历了封群危机，山羊以接收难民为由，成立了“长白山羁糜州”，群员人数一度发展到了60余人。  
@@ -559,7 +559,7 @@
   山羊用“方便在白桦民国招兵买马”的幌子，骗取了白桦民国的管理员职位。随后不久，山羊发动军事政变，踢除了所有普通群员，并用马步芳的违规聊天记录截图威胁马步芳，让马步芳将群主转让给了山羊。山羊改群名为“柏骅海外省”(但在一天后，这个群聊被永久封禁了)  
 
   `3月24日`，马步芳被校领导正义制裁。  
-![截图](https://img.wsmdn.dpdns.org/img/1774388834554.jpg)  
+![截图](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/1774388834554.jpg)  
 
 `3月31日`，**温度尔汗坠机王当选新一任群主**。他上台后，再度建立政治制度，让我们群下了点雨，哗啦啦啦啦，滴入我的心了😍  
 

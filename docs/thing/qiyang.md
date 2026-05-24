@@ -1,7 +1,7 @@
 # 岐阳市
 
 <div style="text-align: center;">
-  <img src="https://img.wsmdn.dpdns.org/img/retouch_2026051109354960.png" 
+  <img src="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/retouch_2026051109354960.png" 
        alt="省徽" 
        style="width: 50%;">
 </div>

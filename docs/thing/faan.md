@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
-    <img src="https://img.wsmdn.dpdns.org/img/国徽.jpg" style="width: 10%;">
+    <img src="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/国徽.jpg" style="width: 10%;">
   </div>
   <div style="flex: 1;">法律、行规、命令等
   </div>
@@ -354,7 +354,7 @@
 9. **[茕羊维基](https://wiki.goatproject.qzz.io)**是柠檬官方唯一认可的群内及茕羊信息来源，任何非来自**茕羊维基**且和群内有关的消息一律视为***假***消息，群成员有维护维基的权利和义务。  
 10. 违反第四条规定的，可以采取鸡蛋里挑骨头的方案举报对方群聊（只是建议，在茕羊历史上此战略取得过多次成功），违反除第5条,第9条的规定的群员，第一次禁言1小时，第二次飞机票  
 11. 然后没了，想改交pr    
-12. ![柠檬小助手](../image/lemon_helper.png)  这是柠檬小助手，她很可爱
+12. ![柠檬小助手](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/lemon_helper.png)  这是柠檬小助手，她很可爱
 
 ## 群公告
 

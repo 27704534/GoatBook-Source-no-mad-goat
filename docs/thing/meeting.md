@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
-    <img src="https://img.wsmdn.dpdns.org/img/国徽.jpg" style="width: 10%;">
+    <img src="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/国徽.jpg" style="width: 10%;">
   </div>
   <div style="flex: 1;">国家会议  
   </div>
@@ -43,7 +43,7 @@
 - 确定管理员选举制度  
 - 踢出了LV＝1的成员（小号除外）  
 - 将看板娘加入wiki每一页 （现已删除😢）
-![](https://dlink.host/sharepoint/aHR0cHM6Ly94dGtkanhmaXRza2cxNjMtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwveHRrZGp4Zml0c2tnXzE2M19jb21fZXh0X194dGtkanhmaXRza2cxNjNfb25taWNyb3NvZnRfY29tL0lRQzRCXzVvaGVpZVRwWng5Y2tsU0pGckFVUVVrcnctN3BldHBscUQ5cWM3RndZP2U9S3k3UUZD.jpg){ width=40}   
+![](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/看板娘.jpg){ width=50% }   
  - *颁布宣告：以下页面加入看板娘*  
      - *会议记录*  
      - *野史*  

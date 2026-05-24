@@ -1,7 +1,7 @@
 # 宁勐特别行政区
 
 <div style="text-align: center;">
-  <img src="https://img.wsmdn.dpdns.org/img/宁勐区徽.png" 
+  <img src="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/宁勐区徽.png" 
        alt="宁勐区徽" 
        style="width: 50%;">
 </div>

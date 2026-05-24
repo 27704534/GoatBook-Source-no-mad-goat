@@ -24,7 +24,7 @@ nav:
 theme:
   name: material
   language : zh
-  favicon: https://img.wsmdn.dpdns.org/img/goat.jpg
+  favicon: https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/goat.jpg
   icon:
     repo: fontawesome/brands/github
   palette:

@@ -132,8 +132,8 @@
 
 刘裕企看见自己的吊没了belike：
 <!-- 视频元素 -->
-<video id="player" playsinline controls data-poster="/img/lyq.jpg">
-  <source src="/video/lyq.mp4" type="video/mp4" />
+<video id="player" playsinline controls data-poster="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/lyq.jpg">
+  <source src="https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/lyq.mp4" type="video/mp4" />
 </video>
 
 ## 矩形运动
