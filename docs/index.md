@@ -19,7 +19,7 @@
 如果你不会写东西，**看就行了**<br>
 
 # 茕羊之死<span id="blink-announcement"><strong><span style="color: #c40303;">(特此公告)</span></strong></span>
-![](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/羊拉之死.png)
+![](https://cdn.jsdelivr.net/gh/AloneGoatProject/nomdn.github.io@main/img/羊拉之死.jpg)
 ## 事件经过
 
 **2026年5月15日**  
